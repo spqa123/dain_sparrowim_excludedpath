@@ -1,4 +1,4 @@
 sastOption:  
   excludedPath:  
-    - "*/a/AllDefects*"
+    - "*/a/AllDefects2*"
     - "*/sca/dependency/jooby-0.6.3/*"
