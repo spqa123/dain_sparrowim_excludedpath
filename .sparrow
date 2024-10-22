@@ -1,7 +1,7 @@
 sastOption:  
   excludedPath:  
-    - "*tabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtab"
-    - "*tabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtab"
+    - "<h1>a</h1>"
+    - "<script>alert(1);</script>"
     - "*tabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtab"
     - "*tabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtab"
     - "*tabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtabtab"
